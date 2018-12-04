@@ -16,7 +16,7 @@ intro:
   - image_path:
     excerpt: '[<i class="fas fa-envelope"></i>](){: .btn .btn--info}
     [<i class="fab fa-whatsapp-square"></i>](){: .btn .btn--success}
-    [<i class="fab fa-twitter"></i> Twitter](){: .btn .btn--twitter}
+    [<i class="fab fa-twitter"></i>(){: .btn .btn--twitter}
     [<i class="fab fa-facebook"></i>](https://www.facebook.com/marytykwawara/){: .btn .btn--facebook}
     [<i class="fab fa-youtube"></i>](https://www.youtube.com/channel/UCKfzW1fA7S7EHB5rH__lP-A){: .btn .btn--danger}'
 
