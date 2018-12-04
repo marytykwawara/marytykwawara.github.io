@@ -8,7 +8,7 @@ header:
   overlay_filter: "0.3"
   overlay_image: /img/gravura2.png
   cta_url: "https://www.youtube.com/watch?v=9MCoCm5RFkY"
-  cta_label: "Conheça mais"
+  cta_label: "Saiba mais"
   caption:
 excerpt: 'Troca de Saberes Assurini do Xingu'
 
@@ -41,7 +41,7 @@ feature_row:
     excerpt: "“Direitos Indígenas nas Pesquisas Acadêmicas e em Empreendimentos (não) Governamentais”"
     url: "https://www.youtube.com/channel/UCLQTZai_e6JmMf1Mr7ZG_Xw"
     btn_label: "Explorar"
-    btn_class: "btn--success"
+    btn_class: "btn--warning"
 
 feature_row2:
 
@@ -58,7 +58,7 @@ povo sobreviva e nossa cultura transcenda."
 
 {% include feature_row id="intro" type="center" %}
 
-# Conheça a História
+# A História
 &nbsp;
 
 {% include feature_row id="feature_row2" type="left" %}

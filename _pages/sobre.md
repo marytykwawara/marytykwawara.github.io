@@ -3,7 +3,7 @@ layout: single
 permalink: /sobre/
 title: "Quem Somos"
 header:
-  overlay_image: img/sobre/linhatempo.png
+  image: img/sobre/linhatempo.png
   teaser: img/sobre/linhatempo.clippings
 toc: true
 toc_label: "Navegando"
