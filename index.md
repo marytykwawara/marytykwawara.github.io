@@ -10,7 +10,7 @@ header:
   cta_url: "https://www.youtube.com/watch?v=9MCoCm5RFkY"
   cta_label: "Conheça mais"
   caption:
-excerpt: 'Troca de Saberes Assurini do Xingu/PA'
+excerpt: 'Troca de Saberes Assurini do Xingu'
 
 intro:
   - image_path:
@@ -22,35 +22,48 @@ intro:
 
 feature_row:
 
-  - image_path: /img/bckgrnd/textos.png
-    title: "Atividades"
-    excerpt: "Textos explorativos relacionados ao paradigma filosófico-científico da Complexidade."
-    url: "/categorias/artigos/"
+  - image_path: /img/experiencias.png
+    title: "Vivências & Oficinas Awaete"
+    excerpt: "Experiências diversas com possibilidade de Bioconstrução de Estrutura Tradicional, Agroecologia e Medicina Tradicional Awaete, Cultura Alimentar, Grafismo e Artesanato Assurini do Xingu."
+    url: ""
     btn_label: "Explorar"
-    btn_class: "btn--primary"
+    btn_class: "btn--warning"
 
-  - image_path: /img/bckgrnd/radio.png
-    title: "Rádio Emergir"
-    excerpt: "Conversas sobre inovações que inspiram e criam um mundo de maior resiliência."
-    url: "https://anchor.fm/radio-emergir"
+  - image_path: /img/roda.png
+    title: "Diálogos & Rodas de conversa"
+    excerpt: "Rodas de conversas desenvolvidas a partir de temas escolhidos de acordo com o interesse do espaço como História, Língua, Canto, Contação de História dentre outros temas possíveis."
+    url: ""
     btn_label: "Explorar"
-    btn_class: "btn--facebook"
+    btn_class: "btn--warning"
 
-  - image_path: /img/bckgrnd/cursos.png
-    title: "Vídeos"
-    excerpt: "Vídeos sobre modelos cognitivos, teorias e tecnologias para um mundo de interdependências."
+  - image_path: /img/decolonização.png
+    title: "Manifesto de Decolonização"
+    excerpt: "“Direitos Indígenas nas Pesquisas Acadêmicas e em Empreendimentos (não) Governamentais”"
     url: "https://www.youtube.com/channel/UCLQTZai_e6JmMf1Mr7ZG_Xw"
     btn_label: "Explorar"
     btn_class: "btn--success"
 
 feature_row2:
 
-- image_path: /img/ismapa/ismapa3.png
-  title: "ISMAPA"
-  excerpt: "Mapeamento e Análise da Rede de bolsistas do Instituto Social para Motivar, Apoiar e Reconhecer Talentos ([Ismart](http://www.ismart.org.br/))."
-  url: "/ismapa/"
-  btn_label: "Explorar"
+- image_path: /img/timei.jpeg
+  title: "Timei Assurini"
+  excerpt: "Eu sei que tem algo errado. Daqui de dentro da aldeia eu não vejo bem, mas sinto. Por isso, comecei
+essa jornada. Preciso entender o que o karai está fazendo em meu território com meu povo, aprender
+quais as alternativas a esse sistema e encontrar, a partir do olhar Awaete, os caminhos para que meu
+povo sobreviva e nossa cultura transcenda."
+  url: "/sobre/"
+  btn_label: "Conheça"
   btn_class: "btn--info"
 ---
 
 {% include feature_row id="intro" type="center" %}
+
+# Conheça a História
+&nbsp;
+
+{% include feature_row id="feature_row2" type="left" %}
+
+# Atividades
+&nbsp;
+
+{% include feature_row %}
