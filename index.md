@@ -19,5 +19,4 @@ intro:
     [<i class="fab fa-twitter"></i> Twitter](){: .btn .btn--twitter}
     [<i class="fab fa-facebook"></i> Facebook](https://www.facebook.com/marytykwawara/){: .btn .btn--facebook}
     [<i class="fab fa-youtube"></i> Youtube](https://www.youtube.com/channel/UCKfzW1fA7S7EHB5rH__lP-A){: .btn .btn--danger}'
-
 ---
