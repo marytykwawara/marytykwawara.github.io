@@ -7,7 +7,7 @@ header:
   overlay_color: "#5e616c"
   overlay_filter: "0.3"
   overlay_image: /img/gravura2.png
-  cta_url: "https://www.youtube.com/watch?v=rWJ4O70-Kr4"
+  cta_url: "https://www.youtube.com/watch?v=9MCoCm5RFkY"
   cta_label: "Conheça mais"
   caption:
 excerpt: 'Troca de Saberes Assurini do Xingu/PA'
