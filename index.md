@@ -53,7 +53,7 @@ quais as alternativas a esse sistema e encontrar, a partir do olhar Awaete, os c
 povo sobreviva e nossa cultura transcenda."
   url: "/sobre/"
   btn_label: "Conheça"
-  btn_class: "btn--info"
+  btn_class: "btn--warning"
 ---
 
 {% include feature_row id="intro" type="center" %}
