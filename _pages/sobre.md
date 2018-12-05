@@ -22,3 +22,5 @@ Por isso, acreditamos que passou da hora de irmos de encontro à informações e
 A criação de um circuito, com encontros para debater, trocar e construir conhecimentos, nos parece a forma mais saudável e sólida para se chegar a uma cultura permanente, uma cultura baseada no respeito e na ética entre os povos da fl oresta. Onde cada ser, homem, animal, árvore e rio voltem a ter usa importância reconhecida e praticada. Na aldeia, acreditamos que essa construção só é possível quando esse conhecimento é absorvido por um mebro da etnia e repassado aos demais, de Awaete para Awaete. Sem mais interferência de não indígenas no território para que possamos nos reorganizer e conseguirmos revitalizar nossa riqueza cultural. No mundo, valorizamos o poder da conexão dos povos e a troca energética entre seres com mesmo objetivo garantindo assim a sobrevivência e sustentação da rede.
 
 ![objetivos](/img/sobre/objetivos.png)
+
+![fazendo](/img/sobre/fazendo.png)

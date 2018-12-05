@@ -15,7 +15,6 @@ toc: true
 toc_label: "Navegando"
 toc_icon: "compass"
 ---
-# MANIFESTO DE DECOLONIZAÇÃO TIMEI ASSURINI
 
 Meu nome é Timei Assurini Sou Awaete, gente de verdade, como nós se auto denominamos. Nascido e criado em minha aldeia na T.I.Kwatinemo no município de Altamira, médio Xingu no estado do Pará sou conhecedor e praticante dos saberes tradicional da minha etnia e cultura. Minha etnia com apenas 40 anos de contato e 250
 pessoas vem passando por sérios impactos de projetos do modelo de desenvolvimento nacional como a rodovia transamazônica, da hidrelétrica de Belo Monte e da mineradora Belo Sun.
