@@ -30,7 +30,7 @@ feature_row:
     btn_class: "btn--warning"
 
   - image_path: /img/roda.png
-    title: "Diálogos & Rodas de conversa"
+    title: "Diálogos & Rodas de Conversas"
     excerpt: "Rodas de conversas desenvolvidas a partir de temas escolhidos de acordo com o interesse do espaço como História, Língua, Canto, Contação de História dentre outros temas possíveis."
     url: ""
     btn_label: "Conheça"
