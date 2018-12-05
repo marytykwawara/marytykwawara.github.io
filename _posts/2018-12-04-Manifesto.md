@@ -2,8 +2,8 @@
 title: "MANIFESTO DE DECOLONIZAÇÃO TIMEI ASSURINI"
 permalink: /manifesto_decolonizacao/
 header:
-  image: /img/postagens/design_cultural/cover.jpg
-  teaser: /img/postagens/design_cultural/cover.jpg
+  image: /img/decolonização.png
+  teaser: /img/decolonização.png
 categories:
   - Artigos
 tags:

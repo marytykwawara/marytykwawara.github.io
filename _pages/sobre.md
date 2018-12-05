@@ -16,7 +16,7 @@ Para entender o Projeto: “Agenda Awaete: Troca de Saberes Assurini do Xingu”
 
 Atualmente, rodeados pelo Município de Altamira, estamos sofrendo com seus graves problemas socioambientais. A comunidade que vem passando por um processo de esgotamento socioambiental com tantas interferencias e inconsistências no cumprimento dos acordos fi rmados junto a agentes locais. Após, quase 15 anos do anúncio da construção da grande hidrelétrica e todo o desajuste provocado, nossa etnia pelejando com consultorias equivocadas e suas suspensões, luta contra a licença de operação do empreendimento, a favor do cumprimentos dos acordos estabelecidos entre Funai, Indígenas, Consecionária e Governo, principalmente dentro do PBA. A presença do não indígena no território só vem a aumentando, a pressão de trabalhadores da CCBM, pesquisadores, madeireiros, garimpeiros, pescadores, ribeirinhos e até empresa hoteleira é uma realidade diária. Tal situação difi culta nossa reprodução cultural, dispersando seus indivíduos que lutam por sua sobrevivência no caos. O contato com a cidade cada vez mais frequente e industrialização do consumo é outro desafi o já que além da perda cultura está relacionada a produção de resíduos sólidos, líquidos e doenças. Outro intempério é a pressão no território e seus recursos naturais e com isso o avanço da população ribeirinha.
 
-![awaete](img/sobre/awaete.png)
+![awaete](/img/sobre/awaete.png)
 
 ## Esperança
 
@@ -24,4 +24,4 @@ Por isso, acreditamos que passou da hora de irmos de encontro à informações e
 
 A criação de um circuito, com encontros para debater, trocar e construir conhecimentos, nos parece a forma mais saudável e sólida para se chegar a uma cultura permanente, uma cultura baseada no respeito e na ética entre os povos da fl oresta. Onde cada ser, homem, animal, árvore e rio voltem a ter usa importância reconhecida e praticada. Na aldeia, acreditamos que essa construção só é possível quando esse conhecimento é absorvido por um mebro da etnia e repassado aos demais, de Awaete para Awaete. Sem mais interferência de não indígenas no território para que possamos nos reorganizer e conseguirmos revitalizar nossa riqueza cultural. No mundo, valorizamos o poder da conexão dos povos e a troca energética entre seres com mesmo objetivo garantindo assim a sobrevivência e sustentação da rede.
 
-![objetivos](img/sobre/objetivos.png)
+![objetivos](/img/sobre/objetivos.png)
