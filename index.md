@@ -26,21 +26,21 @@ feature_row:
     title: "Vivências & Oficinas Awaete"
     excerpt: "Experiências diversas com possibilidade de Bioconstrução de Estrutura Tradicional, Agroecologia e Medicina Tradicional Awaete, Cultura Alimentar, Grafismo e Artesanato Assurini do Xingu."
     url: ""
-    btn_label: "Explorar"
+    btn_label: "Conheça"
     btn_class: "btn--warning"
 
   - image_path: /img/roda.png
     title: "Diálogos & Rodas de conversa"
     excerpt: "Rodas de conversas desenvolvidas a partir de temas escolhidos de acordo com o interesse do espaço como História, Língua, Canto, Contação de História dentre outros temas possíveis."
     url: ""
-    btn_label: "Explorar"
+    btn_label: "Conheça"
     btn_class: "btn--warning"
 
   - image_path: /img/decolonização.png
     title: "Manifesto de Decolonização"
     excerpt: "“Direitos Indígenas nas Pesquisas Acadêmicas e em Empreendimentos (não) Governamentais”"
     url: "/manifesto_decolonizacao/"
-    btn_label: "Explorar"
+    btn_label: "Conheça"
     btn_class: "btn--warning"
 
 feature_row2:
