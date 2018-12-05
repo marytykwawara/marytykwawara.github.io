@@ -47,10 +47,10 @@ feature_row2:
 
 - image_path: /img/timei.jpeg
   title: "Timei Assurini"
-  excerpt: "Eu sei que tem algo errado. Daqui de dentro da aldeia eu não vejo bem, mas sinto. Por isso, comecei
+  excerpt: ""Eu sei que tem algo errado. Daqui de dentro da aldeia eu não vejo bem, mas sinto. Por isso, comecei
 essa jornada. Preciso entender o que o karai está fazendo em meu território com meu povo, aprender
 quais as alternativas a esse sistema e encontrar, a partir do olhar Awaete, os caminhos para que meu
-povo sobreviva e nossa cultura transcenda."
+povo sobreviva e nossa cultura transcenda."""
   url: "/sobre/"
   btn_label: "Conheça"
   btn_class: "btn--warning"
