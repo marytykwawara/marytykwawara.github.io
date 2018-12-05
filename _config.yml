@@ -106,7 +106,7 @@ author:
   name             : "Agenda Awaete"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Troca de Saberes Assurini do Xingu"
-  location         : "Somewhere"
+  location         :
   email            :
   links:
     - label: "Email"
