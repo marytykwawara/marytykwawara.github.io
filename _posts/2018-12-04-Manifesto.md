@@ -44,11 +44,11 @@ Todo dia vejo amigos karai estressados entrando em colapso por conta da academia
 
 Queremos fazer parcerias onde cada conhecimento seja reconhecido e que todos tenham as mesmas condições nesta construção. Caso contrário devemos reconhecer que a academia não tem condições de produzir legalmente. O que torna todo seu material ilegal pois desrespeita não só a OIT 169 como a constituição dos direitos humanos. Estive conversando com amigos pesquisadores canadenses e de outras academias usadas como referências e que não praticam esses editais racistas. Por que aqui tem que ser diferente? Não vamos deixar que continuem nos colonizando. Importante sim ter parente na universidade e em todas as fontes de conhecimento. Afinal temos processos históricos diferentes, cultura e territórios diferentes. Mas esse acesso como aluno, tem que ser um direitos e não um dever para ter seus direitos reconhecidos nas pesquisas. Temos que refletir em acessos diferenciados sem vestibular, diplomas e qualquer outro mecanismo etnocêntrico de avaliação para o acesso a formações universitárias e as pesquisas acadêmicas. Conto com o apoio de vocês para trocarmos saberes sobre esse tema tão importante e urgente no avanço de nossos direitos. Já temos parentes suficientes dentro da academia para provocar essa mudança. Vamos nos unir pelos nossos direitos! E continuar lutando para ampliar as conquistas conseguidas pelo curso intercultural onde muitos parentes já entregam seus trabalhos em suas línguas. Por uma antropologia e pesquisa que respeite nossa constituição e que lute para a construção de mecanismo de acesso que tornem realmente colaborativa essa construção de conhecimento! Já passou da hora da gente saber quem tá junto com a gente de verdade! Sem medo de perder privilégios! Pela decolonização e autonomia dos povos indígenas, da floresta e da terra! Se é a minha cultura é o tema, eu já tenho meu diploma!
 
-## Links Importantes:
+## Links Importantes
 
 [Matéria Brasil de Fato](https://www.brasildefato.com.br/2017/04/06/entre-a-cidade-e-a-aldeia-jovem-indigena-luta-para-salvar-nacao-assurini-do-xingu/)
 
-### Marytykwawara
+Marytykwawara
 
 - [Facebook](www.facebook.com.br/marytykwawara)
 - [Youtube](https://www.youtube.com/channel/UCKfzW1fA7S7EHB5rH__lP-A?view_as=public)

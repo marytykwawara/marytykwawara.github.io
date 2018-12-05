@@ -24,7 +24,7 @@ feature_row:
 
   - image_path: /img/experiencias.png
     title: "Vivências & Oficinas Awaete"
-    excerpt: "Experiências diversas com possibilidade de Bioconstrução de Estrutura Tradicional, Agroecologia e Medicina Tradicional Awaete, Cultura Alimentar, Grafismo e Artesanato Assurini do Xingu."
+    excerpt: "Experiências diversas com Bioconstrução de Estrutura Tradicional, Agroecologia e Medicina Tradicional Awaete, Cultura Alimentar, Grafismo e Artesanato Assurini do Xingu."
     url: ""
     btn_label: "Conheça"
     btn_class: "btn--warning"

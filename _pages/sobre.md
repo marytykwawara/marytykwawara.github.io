@@ -5,9 +5,6 @@ title: "Quem Somos"
 header:
   image: img/sobre/linhatempo.png
   teaser: img/sobre/linhatempo.clippings
-toc: true
-toc_label: "Navegando"
-toc_icon: "compass"
 ---
 
 # Passado, Presente, E?
