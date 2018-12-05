@@ -1,5 +1,5 @@
 ---
-title: "MANIFESTO DE DECOLONIZAÇÃO TIMEI ASSURINI"
+title: "MANIFESTO DE DECOLONIZAÇÃO"
 permalink: /manifesto_decolonizacao/
 header:
   image: /img/decolonização.png
