@@ -39,7 +39,7 @@ feature_row:
   - image_path: /img/decolonização.png
     title: "Manifesto de Decolonização"
     excerpt: "“Direitos Indígenas nas Pesquisas Acadêmicas e em Empreendimentos (não) Governamentais”"
-    url: "https://www.youtube.com/channel/UCLQTZai_e6JmMf1Mr7ZG_Xw"
+    url: "/manifesto_decolonizacao/"
     btn_label: "Explorar"
     btn_class: "btn--warning"
 

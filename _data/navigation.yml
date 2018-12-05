@@ -2,8 +2,8 @@
 main:
   - title: "Quem Somos"
     url: /sobre/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "Blog"
+    url: /categorias/artigos/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
